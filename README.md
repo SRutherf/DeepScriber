@@ -41,3 +41,7 @@
 	1 = INFO messages are not printed
 	2 = INFO and WARNING messages are not printed
 	3 = INFO, WARNING, and ERROR messages are not printed
+
+# Setting up on mac m1 and jupyter
+1. add the link from macbook, then copy the instructions.
+https://caffeinedev.medium.com/how-to-install-tensorflow-on-m1-mac-8e9b91d93706
