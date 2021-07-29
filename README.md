@@ -19,6 +19,9 @@
 	use command 'spleeter separate input.mp3 -p spleeter:5stems -o output' in command line to run
 
 9.  Section for Sheet-Midi-Sheet setup
+	1. Install musescore command line tools (https://musescore.org/en/node/274034)
+	2. Download musdl library to dowload musescore sheetmusic (https://pypi.org/project/musdl/)
+	3.  
 10. 
 11. 
 
