@@ -16,7 +16,7 @@
 	download libsndfile (http://www.mega-nerd.com/libsndfile/#Download)
 	pip install spleeter
 	download ffmpeg package and add to path (https://www.ffmpeg.org/)
-	use command 'spleeter separate input.mp3 -p spleeter:5stems -o output' in command line to run
+	use command 'py -m spleeter separate input.mp3 -p spleeter:5stems -o output' in command line to run
 
 9.  Section for Sheet-Midi-Sheet setup
 	1. Install musescore command line tools (https://musescore.org/en/node/274034)
