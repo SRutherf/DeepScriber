@@ -68,7 +68,7 @@ def downloadFiles(dicts):
         #get the file and save locally
         try:
             score = OnlineScore(dicts[key])
-        except:
+        except Exception as e:
             writeMusescoreList(dicts[key], badScores)
             print(key + " not available in the dataset")
         else:
